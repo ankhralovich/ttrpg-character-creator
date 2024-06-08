@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ttrpg-character-creator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa9078bf3f17fa87100debc66735e14931f8ef13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4f9e9697b6e6f6ebdb6bc60320f0d0c23a538b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ttrpg-character-creator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ttrpg-character-creator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

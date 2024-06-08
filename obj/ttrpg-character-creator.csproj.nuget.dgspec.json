@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/nasta/git_repos/ttrpg-character-creator/ttrpg-character-creator.csproj": {}
+    "C:\\Users\\ANKHR\\RiderProjects\\ttrpg-character-creator\\ttrpg-character-creator.csproj": {}
   },
   "projects": {
-    "/home/nasta/git_repos/ttrpg-character-creator/ttrpg-character-creator.csproj": {
+    "C:\\Users\\ANKHR\\RiderProjects\\ttrpg-character-creator\\ttrpg-character-creator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nasta/git_repos/ttrpg-character-creator/ttrpg-character-creator.csproj",
+        "projectUniqueName": "C:\\Users\\ANKHR\\RiderProjects\\ttrpg-character-creator\\ttrpg-character-creator.csproj",
         "projectName": "ttrpg-character-creator",
-        "projectPath": "/home/nasta/git_repos/ttrpg-character-creator/ttrpg-character-creator.csproj",
-        "packagesPath": "/home/nasta/.nuget/packages/",
-        "outputPath": "/home/nasta/git_repos/ttrpg-character-creator/obj/",
+        "projectPath": "C:\\Users\\ANKHR\\RiderProjects\\ttrpg-character-creator\\ttrpg-character-creator.csproj",
+        "packagesPath": "C:\\Users\\ANKHR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ANKHR\\RiderProjects\\ttrpg-character-creator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/nasta/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ANKHR\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/SneaksAndData/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -53,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/nasta/.dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
